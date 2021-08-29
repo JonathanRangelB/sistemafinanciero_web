@@ -11,6 +11,10 @@
   --third-color: rgba(109, 156, 18, 1);
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--primary-color);
   color: whitesmoke;
